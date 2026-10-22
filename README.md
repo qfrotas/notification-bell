@@ -420,3 +420,9 @@ Every user-facing capability can be turned off individually:
 ## License
 
 MIT License - see the LICENSE file for details.
+
+## Credits
+
+This repository is a fork of [caiquebispo/notification-bell](https://github.com/caiquebispo/notification-bell), created by [Caique Bispo](https://github.com/caiquebispo) and distributed under the MIT License. The original copyright notice is preserved in the [LICENSE](LICENSE) file, as the license requires.
+
+The fork is maintained by [QFrotas](https://github.com/qfrotas) for its own use. All credit for the original design and implementation belongs to the original author.
